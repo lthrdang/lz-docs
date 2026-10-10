@@ -9,7 +9,7 @@ Index (full text to be added as files in this folder):
 - 005 aft_enable_vpc = false (proposed)
 - 006 Landing zone created via console first
 - 007 Network layer outside AFT pipelines
-- 008 Public-repo CI without AWS credentials
+- [008 Public-repo CI without AWS credentials](008-public-repo-ci-without-aws-credentials.md)
 - 009 IAM Identity Center in the Management account
 - 010 Single region, 1-AZ NAT
 - 011 Per-layer S3 state
